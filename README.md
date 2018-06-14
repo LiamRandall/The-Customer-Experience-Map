@@ -22,13 +22,10 @@ Snapshot:
 
 1. **Actions:**
 * What is the customer doing at each stage? What actions are they taking to move themselves on to the next stage? (Don't list what your company or partners such as retailers are doing here. That will come later when we look at touchpoints)
-
 2. **Motivations:**
 * Why is the customer motivated to keep going to the next stage? What emotions are they feeling? Why do they care?
-
 3. **Questions:**
 * What are the uncertainties, jargon, or other issues preventing the customer from moving to the next stage?
-
 4. **Barriers:**
 * What structural, process, cost, implementation, or other barriers stand in the way of moving on to the next stage?
 
@@ -41,25 +38,18 @@ These design constraints are an early draft (pre-mvp) version of Strategyzer's *
 
 1. Purpose & Scope
 * The tool addresses one clear Job-To-Be-Done.  It's a scalpel, not a swiss army knife.
-
 2. Conceptually Sound
 * Building blocks are **mutually exclusive** (an element only fits into one building block) and **collectively exhaustive**.  They cover the most important concepts in that problem space.
-
 3. Existing Knowledge & Theories
 * The tool builds on existing knowledge & theories.  Good tools are grounded in existing research in the existing problem space.
-
 4. Usability & UX
 * The tool is easy to use, simple and practical.  It requires little explanation on how to be used.
-
 5. Vizualization
 * The tool uses sound spacial positioning of the different building blocks.
-
 6. Collaboration
 * The tool creates a shared language that fosters collaboration (& co-creation).
-
 7. Adaptability & Versatility
 *  The tool can be used in different contexts.
-
 8. Integration
 * The toll integrates well with other existing tools.
 
