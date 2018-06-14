@@ -37,6 +37,8 @@ Snapshot:
 
 ### Design Constraints
 
+These design constraints are an early draft (pre-mvp) version of Strategyzer's *Constraints to Assess the Quality of Your Visual Inquiry Tool*.  Great visual inquiry tools should be conceptually sound, visual, and provide a great user experience.  Use these 8 design principles to assess the quality of your design.
+
 1. Purpose & Scope
 * The tool addresses one clear Job-To-Be-Done.  It's a scalpel, not a swiss army knife.
 
@@ -44,14 +46,23 @@ Snapshot:
 * Building blocks are **mutually exclusive** (an element only fits into one building block) and **collectively exhaustive**.  They cover the most important concepts in that problem space.
 
 3. Existing Knowledge & Theories
+* The tool builds on existing knowledge & theories.  Good tools are grounded in existing research in the existing problem space.
 
 4. Usability & UX
-5. Vizualization
-6. Collaboration
-7. Adaptability & Versatility
-8. Integration
+* The tool is easy to use, simple and practical.  It requires little explanation on how to be used.
 
+5. Vizualization
+* The tool uses sound spacial positioning of the different building blocks.
+
+6. Collaboration
+* The tool creates a shared language that fosters collaboration (& co-creation).
+
+7. Adaptability & Versatility
+*  The tool can be used in different contexts.
+
+8. Integration
+* The toll integrates well with other existing tools.
 
 ### Feedback
 
-As a class project we would love to get some short term feedback on useability and 
+As a class project we would love to get some short term feedback on The Customer Experience Map.  Please use github issues to file an issue on the project.
