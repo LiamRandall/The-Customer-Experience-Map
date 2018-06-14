@@ -5,7 +5,7 @@ The Customer Experience Map helps organizations leveraging the Strategyzer Busin
 
 
 ### Background
-The Customer Experience Map is a class project from the [2018 Strategyzer Bootcamp](https://blog.strategyzer.com/posts/2017/12/20/2018-strategyzer-bootcamp-become-a-business-model-innovation-coach) for Business Model Canvas Innovation coaches.  One of the incredible class exercises from this incredible workshop is to take a crack at building a tool.  The Custoemr Experience Map is a tool designed by:
+The Customer Experience Map is a class project from the [2018 Strategyzer Bootcamp](https://blog.strategyzer.com/posts/2017/12/20/2018-strategyzer-bootcamp-become-a-business-model-innovation-coach) for Business Model Canvas Innovation coaches.  One of the incredible class exercises from this incredible workshop is to take a crack at building a tool.  The Customer Experience Map is a tool designed by:
 
 *  Eman Almousawi
 *  Jesse Desjardins
